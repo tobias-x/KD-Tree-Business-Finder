@@ -1,0 +1,306 @@
+CCT Business Services Pty Ltd --> Census year: 2018 || Block ID: 218 || Property ID: 102675 || Base property ID: 102675 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6932 || Industry (ANZSIC4) description: Accounting Services || x coordinate: 144.967865 || y coordinate: -37.799824 || Location: (-37.79982399, 144.9678646) || 
+
+Carlton Clocktower Apartments --> Census year: 2018 || Block ID: 218 || Property ID: 102675 || Base property ID: 102675 || CLUE small area: Carlton || Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.967865 || y coordinate: -37.799824 || Location: (-37.79982399, 144.9678646) || 
+
+IT and Beyond --> Census year: 2018 || Block ID: 54 || Property ID: 108104 || Base property ID: 108104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.960680 || y coordinate: -37.814028 || Location: (-37.81402804, 144.9606803) || 
+
+Starbucks --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Glassons --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4255 || Industry (ANZSIC4) description: Women's Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Cafe Vita --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Jay Jay's --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4251 || Industry (ANZSIC4) description: Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Ugg --> Census year: 2018 || Block ID: 65 || Property ID: 105698 || Base property ID: 105698 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4252 || Industry (ANZSIC4) description: Footwear Retailing || x coordinate: 144.963843 || y coordinate: -37.812470 || Location: (-37.81247035, 144.9638435) || 
+
+Vacant --> Census year: 2018 || Block ID: 781 || Property ID: 110551 || Base property ID: 110551 || CLUE small area: Port Melbourne || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.925386 || y coordinate: -37.823028 || Location: (-37.82302799, 144.9253861) || 
+
+Ho Ho's Canteen --> Census year: 2018 || Block ID: 270 || Property ID: 664626 || Base property ID: 104468 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.961183 || y coordinate: -37.796883 || Location: (-37.79688289, 144.9611833) || 
+
+Slack Australia --> Census year: 2018 || Block ID: 264 || Property ID: 661676 || Base property ID: 644815 || CLUE small area: Carlton || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.962477 || y coordinate: -37.805701 || Location: (-37.80570096, 144.962477) || 
+
+Vacant --> Census year: 2018 || Block ID: 753 || Property ID: 110606 || Base property ID: 110380 || CLUE small area: Southbank || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.966304 || y coordinate: -37.820718 || Location: (-37.82071819, 144.9663043) || 
+
+IT and Beyond --> Census year: 2018 || Block ID: 54 || Property ID: 108104 || Base property ID: 108104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.960680 || y coordinate: -37.814028 || Location: (-37.81402804, 144.9606803) || 
+
+Starbucks --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Glassons --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4255 || Industry (ANZSIC4) description: Women's Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Cafe Vita --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Jay Jay's --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4251 || Industry (ANZSIC4) description: Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Nick Lewis Design --> Census year: 2018 || Block ID: 74 || Property ID: 105743 || Base property ID: 105743 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 6924 || Industry (ANZSIC4) description: Other Specialised Design Services || x coordinate: 144.961751 || y coordinate: -37.812143 || Location: (-37.81214255, 144.9617512) || 
+
+Noodle Villa --> Census year: 2018 || Block ID: 74 || Property ID: 105743 || Base property ID: 105743 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.961751 || y coordinate: -37.812143 || Location: (-37.81214255, 144.9617512) || 
+
+Vacant --> Census year: 2018 || Block ID: 753 || Property ID: 110606 || Base property ID: 110380 || CLUE small area: Southbank || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.966304 || y coordinate: -37.820718 || Location: (-37.82071819, 144.9663043) || 
+
+Pro-Eye Video Productions Pty Ltd --> Census year: 2018 || Block ID: 414 || Property ID: 108882 || Base property ID: 108882 || CLUE small area: West Melbourne (Residential) || Industry (ANZSIC4) code: 5511 || Industry (ANZSIC4) description: Motion Picture and Video Production || x coordinate: 144.945369 || y coordinate: -37.806912 || Location: (-37.80691209, 144.9453689) || 
+
+Vacant --> Census year: 2018 || Block ID: 1110 || Property ID: 620308 || Base property ID: 593737 || CLUE small area: Docklands || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.937851 || y coordinate: -37.813169 || Location: (-37.81316939, 144.9378512) || 
+
+Vacant --> Census year: 2018 || Block ID: 753 || Property ID: 110606 || Base property ID: 110380 || CLUE small area: Southbank || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.966304 || y coordinate: -37.820718 || Location: (-37.82071819, 144.9663043) || 
+
+Pro-Eye Video Productions Pty Ltd --> Census year: 2018 || Block ID: 414 || Property ID: 108882 || Base property ID: 108882 || CLUE small area: West Melbourne (Residential) || Industry (ANZSIC4) code: 5511 || Industry (ANZSIC4) description: Motion Picture and Video Production || x coordinate: 144.945369 || y coordinate: -37.806912 || Location: (-37.80691209, 144.9453689) || 
+
+Pro-Eye Video Productions Pty Ltd --> Census year: 2018 || Block ID: 414 || Property ID: 108882 || Base property ID: 108882 || CLUE small area: West Melbourne (Residential) || Industry (ANZSIC4) code: 5511 || Industry (ANZSIC4) description: Motion Picture and Video Production || x coordinate: 144.945369 || y coordinate: -37.806912 || Location: (-37.80691209, 144.9453689) || 
+
+Vacant --> Census year: 2018 || Block ID: 1110 || Property ID: 620308 || Base property ID: 593737 || CLUE small area: Docklands || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.937851 || y coordinate: -37.813169 || Location: (-37.81316939, 144.9378512) || 
+
+IT and Beyond --> Census year: 2018 || Block ID: 54 || Property ID: 108104 || Base property ID: 108104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.960680 || y coordinate: -37.814028 || Location: (-37.81402804, 144.9606803) || 
+
+Vacant --> Census year: 2018 || Block ID: 1110 || Property ID: 620308 || Base property ID: 593737 || CLUE small area: Docklands || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.937851 || y coordinate: -37.813169 || Location: (-37.81316939, 144.9378512) || 
+
+Vacant --> Census year: 2018 || Block ID: 753 || Property ID: 110606 || Base property ID: 110380 || CLUE small area: Southbank || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.966304 || y coordinate: -37.820718 || Location: (-37.82071819, 144.9663043) || 
+
+Pro-Eye Video Productions Pty Ltd --> Census year: 2018 || Block ID: 414 || Property ID: 108882 || Base property ID: 108882 || CLUE small area: West Melbourne (Residential) || Industry (ANZSIC4) code: 5511 || Industry (ANZSIC4) description: Motion Picture and Video Production || x coordinate: 144.945369 || y coordinate: -37.806912 || Location: (-37.80691209, 144.9453689) || 
+
+Family Planning Victoria Inc --> Census year: 2018 || Block ID: 35 || Property ID: 103322 || Base property ID: 103322 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 8790 || Industry (ANZSIC4) description: Other Social Assistance Services || x coordinate: 144.964173 || y coordinate: -37.815732 || Location: (-37.8157323, 144.9641735) || 
+
+Dexus --> Census year: 2018 || Block ID: 76 || Property ID: 589841 || Base property ID: 105749 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 6712 || Industry (ANZSIC4) description: Non-Residential Property Operators || x coordinate: 144.965700 || y coordinate: -37.810679 || Location: (-37.81067862, 144.9657001) || 
+
+Marrakech Bar --> Census year: 2018 || Block ID: 33 || Property ID: 105937 || Base property ID: 105937 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.960089 || y coordinate: -37.816396 || Location: (-37.81639571, 144.9600894) || 
+
+Genesis Fitness --> Census year: 2018 || Block ID: 802 || Property ID: 575821 || Base property ID: 575821 || CLUE small area: Southbank || Industry (ANZSIC4) code: 9111 || Industry (ANZSIC4) description: Health and Fitness Centres and Gymnasia Operation || x coordinate: 144.962586 || y coordinate: -37.822217 || Location: (-37.82221673, 144.9625862) || 
+
+Starbucks --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Glassons --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4255 || Industry (ANZSIC4) description: Women's Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Cafe Vita --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Jay Jay's --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4251 || Industry (ANZSIC4) description: Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Pro-Eye Video Productions Pty Ltd --> Census year: 2018 || Block ID: 414 || Property ID: 108882 || Base property ID: 108882 || CLUE small area: West Melbourne (Residential) || Industry (ANZSIC4) code: 5511 || Industry (ANZSIC4) description: Motion Picture and Video Production || x coordinate: 144.945369 || y coordinate: -37.806912 || Location: (-37.80691209, 144.9453689) || 
+
+Vacant --> Census year: 2018 || Block ID: 781 || Property ID: 110551 || Base property ID: 110551 || CLUE small area: Port Melbourne || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.925386 || y coordinate: -37.823028 || Location: (-37.82302799, 144.9253861) || 
+
+Meltwater Australia --> Census year: 2018 || Block ID: 22 || Property ID: 102104 || Base property ID: 102104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.957470 || y coordinate: -37.818684 || Location: (-37.81868413, 144.9574703) || 
+
+Vacant --> Census year: 2018 || Block ID: 22 || Property ID: 102104 || Base property ID: 102104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.957470 || y coordinate: -37.818684 || Location: (-37.81868413, 144.9574703) || 
+
+Tutti in Pizza --> Census year: 2018 || Block ID: 32 || Property ID: 102115 || Base property ID: 102115 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.956811 || y coordinate: -37.817686 || Location: (-37.81768553, 144.9568113) || 
+
+APESB --> Census year: 2018 || Block ID: 32 || Property ID: 110094 || Base property ID: 110094 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 9551 || Industry (ANZSIC4) description: Business and Professional Association Services || x coordinate: 144.958420 || y coordinate: -37.816906 || Location: (-37.81690552, 144.95842) || 
+
+Marrakech Bar --> Census year: 2018 || Block ID: 33 || Property ID: 105937 || Base property ID: 105937 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.960089 || y coordinate: -37.816396 || Location: (-37.81639571, 144.9600894) || 
+
+Genesis Fitness --> Census year: 2018 || Block ID: 802 || Property ID: 575821 || Base property ID: 575821 || CLUE small area: Southbank || Industry (ANZSIC4) code: 9111 || Industry (ANZSIC4) description: Health and Fitness Centres and Gymnasia Operation || x coordinate: 144.962586 || y coordinate: -37.822217 || Location: (-37.82221673, 144.9625862) || 
+
+HK Consultancy --> Census year: 2018 || Block ID: 14 || Property ID: 104003 || Base property ID: 104003 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 9539 || Industry (ANZSIC4) description: Other Personal Services n.e.c. || x coordinate: 144.962710 || y coordinate: -37.818588 || Location: (-37.81858764, 144.9627099) || 
+
+IT and Beyond --> Census year: 2018 || Block ID: 54 || Property ID: 108104 || Base property ID: 108104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.960680 || y coordinate: -37.814028 || Location: (-37.81402804, 144.9606803) || 
+
+Vacant --> Census year: 2018 || Block ID: 781 || Property ID: 110551 || Base property ID: 110551 || CLUE small area: Port Melbourne || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.925386 || y coordinate: -37.823028 || Location: (-37.82302799, 144.9253861) || 
+
+Vacant --> Census year: 2018 || Block ID: 753 || Property ID: 110606 || Base property ID: 110380 || CLUE small area: Southbank || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.966304 || y coordinate: -37.820718 || Location: (-37.82071819, 144.9663043) || 
+
+Vacant --> Census year: 2018 || Block ID: 781 || Property ID: 110551 || Base property ID: 110551 || CLUE small area: Port Melbourne || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.925386 || y coordinate: -37.823028 || Location: (-37.82302799, 144.9253861) || 
+
+CCT Business Services Pty Ltd --> Census year: 2018 || Block ID: 218 || Property ID: 102675 || Base property ID: 102675 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6932 || Industry (ANZSIC4) description: Accounting Services || x coordinate: 144.967865 || y coordinate: -37.799824 || Location: (-37.79982399, 144.9678646) || 
+
+Carlton Clocktower Apartments --> Census year: 2018 || Block ID: 218 || Property ID: 102675 || Base property ID: 102675 || CLUE small area: Carlton || Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.967865 || y coordinate: -37.799824 || Location: (-37.79982399, 144.9678646) || 
+
+Pro-Eye Video Productions Pty Ltd --> Census year: 2018 || Block ID: 414 || Property ID: 108882 || Base property ID: 108882 || CLUE small area: West Melbourne (Residential) || Industry (ANZSIC4) code: 5511 || Industry (ANZSIC4) description: Motion Picture and Video Production || x coordinate: 144.945369 || y coordinate: -37.806912 || Location: (-37.80691209, 144.9453689) || 
+
+Vacant --> Census year: 2018 || Block ID: 1110 || Property ID: 620308 || Base property ID: 593737 || CLUE small area: Docklands || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.937851 || y coordinate: -37.813169 || Location: (-37.81316939, 144.9378512) || 
+
+Vacant --> Census year: 2018 || Block ID: 781 || Property ID: 110551 || Base property ID: 110551 || CLUE small area: Port Melbourne || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.925386 || y coordinate: -37.823028 || Location: (-37.82302799, 144.9253861) || 
+
+Genesis Fitness --> Census year: 2018 || Block ID: 802 || Property ID: 575821 || Base property ID: 575821 || CLUE small area: Southbank || Industry (ANZSIC4) code: 9111 || Industry (ANZSIC4) description: Health and Fitness Centres and Gymnasia Operation || x coordinate: 144.962586 || y coordinate: -37.822217 || Location: (-37.82221673, 144.9625862) || 
+
+Meltwater Australia --> Census year: 2018 || Block ID: 22 || Property ID: 102104 || Base property ID: 102104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.957470 || y coordinate: -37.818684 || Location: (-37.81868413, 144.9574703) || 
+
+Vacant --> Census year: 2018 || Block ID: 22 || Property ID: 102104 || Base property ID: 102104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.957470 || y coordinate: -37.818684 || Location: (-37.81868413, 144.9574703) || 
+
+Tutti in Pizza --> Census year: 2018 || Block ID: 32 || Property ID: 102115 || Base property ID: 102115 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.956811 || y coordinate: -37.817686 || Location: (-37.81768553, 144.9568113) || 
+
+Genesis Fitness --> Census year: 2018 || Block ID: 802 || Property ID: 575821 || Base property ID: 575821 || CLUE small area: Southbank || Industry (ANZSIC4) code: 9111 || Industry (ANZSIC4) description: Health and Fitness Centres and Gymnasia Operation || x coordinate: 144.962586 || y coordinate: -37.822217 || Location: (-37.82221673, 144.9625862) || 
+
+Family Planning Victoria Inc --> Census year: 2018 || Block ID: 35 || Property ID: 103322 || Base property ID: 103322 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 8790 || Industry (ANZSIC4) description: Other Social Assistance Services || x coordinate: 144.964173 || y coordinate: -37.815732 || Location: (-37.8157323, 144.9641735) || 
+
+Vacant --> Census year: 2018 || Block ID: 781 || Property ID: 110551 || Base property ID: 110551 || CLUE small area: Port Melbourne || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.925386 || y coordinate: -37.823028 || Location: (-37.82302799, 144.9253861) || 
+
+Pro-Eye Video Productions Pty Ltd --> Census year: 2018 || Block ID: 414 || Property ID: 108882 || Base property ID: 108882 || CLUE small area: West Melbourne (Residential) || Industry (ANZSIC4) code: 5511 || Industry (ANZSIC4) description: Motion Picture and Video Production || x coordinate: 144.945369 || y coordinate: -37.806912 || Location: (-37.80691209, 144.9453689) || 
+
+Pro-Eye Video Productions Pty Ltd --> Census year: 2018 || Block ID: 414 || Property ID: 108882 || Base property ID: 108882 || CLUE small area: West Melbourne (Residential) || Industry (ANZSIC4) code: 5511 || Industry (ANZSIC4) description: Motion Picture and Video Production || x coordinate: 144.945369 || y coordinate: -37.806912 || Location: (-37.80691209, 144.9453689) || 
+
+Meltwater Australia --> Census year: 2018 || Block ID: 22 || Property ID: 102104 || Base property ID: 102104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.957470 || y coordinate: -37.818684 || Location: (-37.81868413, 144.9574703) || 
+
+Vacant --> Census year: 2018 || Block ID: 22 || Property ID: 102104 || Base property ID: 102104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.957470 || y coordinate: -37.818684 || Location: (-37.81868413, 144.9574703) || 
+
+Family Planning Victoria Inc --> Census year: 2018 || Block ID: 35 || Property ID: 103322 || Base property ID: 103322 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 8790 || Industry (ANZSIC4) description: Other Social Assistance Services || x coordinate: 144.964173 || y coordinate: -37.815732 || Location: (-37.8157323, 144.9641735) || 
+
+Vacant --> Census year: 2018 || Block ID: 753 || Property ID: 110606 || Base property ID: 110380 || CLUE small area: Southbank || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.966304 || y coordinate: -37.820718 || Location: (-37.82071819, 144.9663043) || 
+
+Reinforce --> Census year: 2018 || Block ID: 15 || Property ID: 103941 || Base property ID: 103941 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.966171 || y coordinate: -37.816994 || Location: (-37.81699359, 144.9661705) || 
+
+McAlister Jewellers --> Census year: 2018 || Block ID: 35 || Property ID: 109267 || Base property ID: 109267 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 2591 || Industry (ANZSIC4) description: Jewellery and Silverware Manufacturing || x coordinate: 144.966103 || y coordinate: -37.815290 || Location: (-37.81529012, 144.966103) || 
+
+Family Planning Victoria Inc --> Census year: 2018 || Block ID: 35 || Property ID: 103322 || Base property ID: 103322 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 8790 || Industry (ANZSIC4) description: Other Social Assistance Services || x coordinate: 144.964173 || y coordinate: -37.815732 || Location: (-37.8157323, 144.9641735) || 
+
+Vacant --> Census year: 2018 || Block ID: 753 || Property ID: 110606 || Base property ID: 110380 || CLUE small area: Southbank || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.966304 || y coordinate: -37.820718 || Location: (-37.82071819, 144.9663043) || 
+
+Family Planning Victoria Inc --> Census year: 2018 || Block ID: 35 || Property ID: 103322 || Base property ID: 103322 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 8790 || Industry (ANZSIC4) description: Other Social Assistance Services || x coordinate: 144.964173 || y coordinate: -37.815732 || Location: (-37.8157323, 144.9641735) || 
+
+Vacant --> Census year: 2018 || Block ID: 753 || Property ID: 110606 || Base property ID: 110380 || CLUE small area: Southbank || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.966304 || y coordinate: -37.820718 || Location: (-37.82071819, 144.9663043) || 
+
+Vacant --> Census year: 2018 || Block ID: 25 || Property ID: 102079 || Base property ID: 102079 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.966330 || y coordinate: -37.815840 || Location: (-37.81584039, 144.9663301) || 
+
+Vacant --> Census year: 2018 || Block ID: 25 || Property ID: 102079 || Base property ID: 102079 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.966330 || y coordinate: -37.815840 || Location: (-37.81584039, 144.9663301) || 
+
+Vacant --> Census year: 2018 || Block ID: 25 || Property ID: 102079 || Base property ID: 102079 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.966330 || y coordinate: -37.815840 || Location: (-37.81584039, 144.9663301) || 
+
+Vacant --> Census year: 2018 || Block ID: 781 || Property ID: 110551 || Base property ID: 110551 || CLUE small area: Port Melbourne || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.925386 || y coordinate: -37.823028 || Location: (-37.82302799, 144.9253861) || 
+
+Family Planning Victoria Inc --> Census year: 2018 || Block ID: 35 || Property ID: 103322 || Base property ID: 103322 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 8790 || Industry (ANZSIC4) description: Other Social Assistance Services || x coordinate: 144.964173 || y coordinate: -37.815732 || Location: (-37.8157323, 144.9641735) || 
+
+McAlister Jewellers --> Census year: 2018 || Block ID: 35 || Property ID: 109267 || Base property ID: 109267 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 2591 || Industry (ANZSIC4) description: Jewellery and Silverware Manufacturing || x coordinate: 144.966103 || y coordinate: -37.815290 || Location: (-37.81529012, 144.966103) || 
+
+Meltwater Australia --> Census year: 2018 || Block ID: 22 || Property ID: 102104 || Base property ID: 102104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.957470 || y coordinate: -37.818684 || Location: (-37.81868413, 144.9574703) || 
+
+Vacant --> Census year: 2018 || Block ID: 22 || Property ID: 102104 || Base property ID: 102104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.957470 || y coordinate: -37.818684 || Location: (-37.81868413, 144.9574703) || 
+
+Tutti in Pizza --> Census year: 2018 || Block ID: 32 || Property ID: 102115 || Base property ID: 102115 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.956811 || y coordinate: -37.817686 || Location: (-37.81768553, 144.9568113) || 
+
+IT and Beyond --> Census year: 2018 || Block ID: 54 || Property ID: 108104 || Base property ID: 108104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.960680 || y coordinate: -37.814028 || Location: (-37.81402804, 144.9606803) || 
+
+Vacant --> Census year: 2018 || Block ID: 781 || Property ID: 110551 || Base property ID: 110551 || CLUE small area: Port Melbourne || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.925386 || y coordinate: -37.823028 || Location: (-37.82302799, 144.9253861) || 
+
+Nick Lewis Design --> Census year: 2018 || Block ID: 74 || Property ID: 105743 || Base property ID: 105743 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 6924 || Industry (ANZSIC4) description: Other Specialised Design Services || x coordinate: 144.961751 || y coordinate: -37.812143 || Location: (-37.81214255, 144.9617512) || 
+
+Noodle Villa --> Census year: 2018 || Block ID: 74 || Property ID: 105743 || Base property ID: 105743 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.961751 || y coordinate: -37.812143 || Location: (-37.81214255, 144.9617512) || 
+
+Marrakech Bar --> Census year: 2018 || Block ID: 33 || Property ID: 105937 || Base property ID: 105937 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.960089 || y coordinate: -37.816396 || Location: (-37.81639571, 144.9600894) || 
+
+Genesis Fitness --> Census year: 2018 || Block ID: 802 || Property ID: 575821 || Base property ID: 575821 || CLUE small area: Southbank || Industry (ANZSIC4) code: 9111 || Industry (ANZSIC4) description: Health and Fitness Centres and Gymnasia Operation || x coordinate: 144.962586 || y coordinate: -37.822217 || Location: (-37.82221673, 144.9625862) || 
+
+Pro-Eye Video Productions Pty Ltd --> Census year: 2018 || Block ID: 414 || Property ID: 108882 || Base property ID: 108882 || CLUE small area: West Melbourne (Residential) || Industry (ANZSIC4) code: 5511 || Industry (ANZSIC4) description: Motion Picture and Video Production || x coordinate: 144.945369 || y coordinate: -37.806912 || Location: (-37.80691209, 144.9453689) || 
+
+Vacant --> Census year: 2018 || Block ID: 1110 || Property ID: 620308 || Base property ID: 593737 || CLUE small area: Docklands || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.937851 || y coordinate: -37.813169 || Location: (-37.81316939, 144.9378512) || 
+
+CCT Business Services Pty Ltd --> Census year: 2018 || Block ID: 218 || Property ID: 102675 || Base property ID: 102675 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6932 || Industry (ANZSIC4) description: Accounting Services || x coordinate: 144.967865 || y coordinate: -37.799824 || Location: (-37.79982399, 144.9678646) || 
+
+Carlton Clocktower Apartments --> Census year: 2018 || Block ID: 218 || Property ID: 102675 || Base property ID: 102675 || CLUE small area: Carlton || Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.967865 || y coordinate: -37.799824 || Location: (-37.79982399, 144.9678646) || 
+
+IT and Beyond --> Census year: 2018 || Block ID: 54 || Property ID: 108104 || Base property ID: 108104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.960680 || y coordinate: -37.814028 || Location: (-37.81402804, 144.9606803) || 
+
+LexisNexis --> Census year: 2018 || Block ID: 94 || Property ID: 108089 || Base property ID: 108089 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 5412 || Industry (ANZSIC4) description: Magazine and Other Periodical Publishing || x coordinate: 144.959227 || y coordinate: -37.810245 || Location: (-37.81024541, 144.9592271) || 
+
+Starbucks --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Glassons --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4255 || Industry (ANZSIC4) description: Women's Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Cafe Vita --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Jay Jay's --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4251 || Industry (ANZSIC4) description: Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Nick Lewis Design --> Census year: 2018 || Block ID: 74 || Property ID: 105743 || Base property ID: 105743 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 6924 || Industry (ANZSIC4) description: Other Specialised Design Services || x coordinate: 144.961751 || y coordinate: -37.812143 || Location: (-37.81214255, 144.9617512) || 
+
+Noodle Villa --> Census year: 2018 || Block ID: 74 || Property ID: 105743 || Base property ID: 105743 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.961751 || y coordinate: -37.812143 || Location: (-37.81214255, 144.9617512) || 
+
+Pro-Eye Video Productions Pty Ltd --> Census year: 2018 || Block ID: 414 || Property ID: 108882 || Base property ID: 108882 || CLUE small area: West Melbourne (Residential) || Industry (ANZSIC4) code: 5511 || Industry (ANZSIC4) description: Motion Picture and Video Production || x coordinate: 144.945369 || y coordinate: -37.806912 || Location: (-37.80691209, 144.9453689) || 
+
+Pro-Eye Video Productions Pty Ltd --> Census year: 2018 || Block ID: 414 || Property ID: 108882 || Base property ID: 108882 || CLUE small area: West Melbourne (Residential) || Industry (ANZSIC4) code: 5511 || Industry (ANZSIC4) description: Motion Picture and Video Production || x coordinate: 144.945369 || y coordinate: -37.806912 || Location: (-37.80691209, 144.9453689) || 
+
+IT and Beyond --> Census year: 2018 || Block ID: 54 || Property ID: 108104 || Base property ID: 108104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.960680 || y coordinate: -37.814028 || Location: (-37.81402804, 144.9606803) || 
+
+Starbucks --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Glassons --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4255 || Industry (ANZSIC4) description: Women's Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Cafe Vita --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Jay Jay's --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4251 || Industry (ANZSIC4) description: Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Nick Lewis Design --> Census year: 2018 || Block ID: 74 || Property ID: 105743 || Base property ID: 105743 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 6924 || Industry (ANZSIC4) description: Other Specialised Design Services || x coordinate: 144.961751 || y coordinate: -37.812143 || Location: (-37.81214255, 144.9617512) || 
+
+Noodle Villa --> Census year: 2018 || Block ID: 74 || Property ID: 105743 || Base property ID: 105743 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.961751 || y coordinate: -37.812143 || Location: (-37.81214255, 144.9617512) || 
+
+Vacant --> Census year: 2018 || Block ID: 1110 || Property ID: 620308 || Base property ID: 593737 || CLUE small area: Docklands || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.937851 || y coordinate: -37.813169 || Location: (-37.81316939, 144.9378512) || 
+
+Vacant --> Census year: 2018 || Block ID: 781 || Property ID: 110551 || Base property ID: 110551 || CLUE small area: Port Melbourne || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.925386 || y coordinate: -37.823028 || Location: (-37.82302799, 144.9253861) || 
+
+Vacant --> Census year: 2018 || Block ID: 781 || Property ID: 110551 || Base property ID: 110551 || CLUE small area: Port Melbourne || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.925386 || y coordinate: -37.823028 || Location: (-37.82302799, 144.9253861) || 
+
+Meltwater Australia --> Census year: 2018 || Block ID: 22 || Property ID: 102104 || Base property ID: 102104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.957470 || y coordinate: -37.818684 || Location: (-37.81868413, 144.9574703) || 
+
+Vacant --> Census year: 2018 || Block ID: 22 || Property ID: 102104 || Base property ID: 102104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.957470 || y coordinate: -37.818684 || Location: (-37.81868413, 144.9574703) || 
+
+Vacant --> Census year: 2018 || Block ID: 1110 || Property ID: 620308 || Base property ID: 593737 || CLUE small area: Docklands || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.937851 || y coordinate: -37.813169 || Location: (-37.81316939, 144.9378512) || 
+
+Starbucks --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Glassons --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4255 || Industry (ANZSIC4) description: Women's Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Cafe Vita --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Jay Jay's --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4251 || Industry (ANZSIC4) description: Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Family Planning Victoria Inc --> Census year: 2018 || Block ID: 35 || Property ID: 103322 || Base property ID: 103322 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 8790 || Industry (ANZSIC4) description: Other Social Assistance Services || x coordinate: 144.964173 || y coordinate: -37.815732 || Location: (-37.8157323, 144.9641735) || 
+
+Dexus --> Census year: 2018 || Block ID: 76 || Property ID: 589841 || Base property ID: 105749 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 6712 || Industry (ANZSIC4) description: Non-Residential Property Operators || x coordinate: 144.965700 || y coordinate: -37.810679 || Location: (-37.81067862, 144.9657001) || 
+
+IT and Beyond --> Census year: 2018 || Block ID: 54 || Property ID: 108104 || Base property ID: 108104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.960680 || y coordinate: -37.814028 || Location: (-37.81402804, 144.9606803) || 
+
+Starbucks --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Glassons --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4255 || Industry (ANZSIC4) description: Women's Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Cafe Vita --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Jay Jay's --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4251 || Industry (ANZSIC4) description: Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Ugg --> Census year: 2018 || Block ID: 65 || Property ID: 105698 || Base property ID: 105698 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4252 || Industry (ANZSIC4) description: Footwear Retailing || x coordinate: 144.963843 || y coordinate: -37.812470 || Location: (-37.81247035, 144.9638435) || 
+
+IT and Beyond --> Census year: 2018 || Block ID: 54 || Property ID: 108104 || Base property ID: 108104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.960680 || y coordinate: -37.814028 || Location: (-37.81402804, 144.9606803) || 
+
+Ho Ho's Canteen --> Census year: 2018 || Block ID: 270 || Property ID: 664626 || Base property ID: 104468 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.961183 || y coordinate: -37.796883 || Location: (-37.79688289, 144.9611833) || 
+
+Starbucks --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Glassons --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4255 || Industry (ANZSIC4) description: Women's Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Cafe Vita --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Jay Jay's --> Census year: 2018 || Block ID: 85 || Property ID: 105746 || Base property ID: 105746 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4251 || Industry (ANZSIC4) description: Clothing Retailing || x coordinate: 144.962756 || y coordinate: -37.810902 || Location: (-37.81090175, 144.9627564) || 
+
+Slack Australia --> Census year: 2018 || Block ID: 264 || Property ID: 661676 || Base property ID: 644815 || CLUE small area: Carlton || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.962477 || y coordinate: -37.805701 || Location: (-37.80570096, 144.962477) || 
+
+Ho Ho's Canteen --> Census year: 2018 || Block ID: 270 || Property ID: 664626 || Base property ID: 104468 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.961183 || y coordinate: -37.796883 || Location: (-37.79688289, 144.9611833) || 
+
+Meltwater Australia --> Census year: 2018 || Block ID: 22 || Property ID: 102104 || Base property ID: 102104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.957470 || y coordinate: -37.818684 || Location: (-37.81868413, 144.9574703) || 
+
+Vacant --> Census year: 2018 || Block ID: 22 || Property ID: 102104 || Base property ID: 102104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.957470 || y coordinate: -37.818684 || Location: (-37.81868413, 144.9574703) || 
+
+Vacant --> Census year: 2018 || Block ID: 753 || Property ID: 110606 || Base property ID: 110380 || CLUE small area: Southbank || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.966304 || y coordinate: -37.820718 || Location: (-37.82071819, 144.9663043) || 
+
+Reinforce --> Census year: 2018 || Block ID: 15 || Property ID: 103941 || Base property ID: 103941 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.966171 || y coordinate: -37.816994 || Location: (-37.81699359, 144.9661705) || 
+
+Family Planning Victoria Inc --> Census year: 2018 || Block ID: 35 || Property ID: 103322 || Base property ID: 103322 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 8790 || Industry (ANZSIC4) description: Other Social Assistance Services || x coordinate: 144.964173 || y coordinate: -37.815732 || Location: (-37.8157323, 144.9641735) || 
+
+McAlister Jewellers --> Census year: 2018 || Block ID: 35 || Property ID: 109267 || Base property ID: 109267 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 2591 || Industry (ANZSIC4) description: Jewellery and Silverware Manufacturing || x coordinate: 144.966103 || y coordinate: -37.815290 || Location: (-37.81529012, 144.966103) || 
+
+Pro-Eye Video Productions Pty Ltd --> Census year: 2018 || Block ID: 414 || Property ID: 108882 || Base property ID: 108882 || CLUE small area: West Melbourne (Residential) || Industry (ANZSIC4) code: 5511 || Industry (ANZSIC4) description: Motion Picture and Video Production || x coordinate: 144.945369 || y coordinate: -37.806912 || Location: (-37.80691209, 144.9453689) || 
+
+Vacant --> Census year: 2018 || Block ID: 781 || Property ID: 110551 || Base property ID: 110551 || CLUE small area: Port Melbourne || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.925386 || y coordinate: -37.823028 || Location: (-37.82302799, 144.9253861) || 
+
+Vacant --> Census year: 2018 || Block ID: 781 || Property ID: 110551 || Base property ID: 110551 || CLUE small area: Port Melbourne || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.925386 || y coordinate: -37.823028 || Location: (-37.82302799, 144.9253861) || 
+
+Meltwater Australia --> Census year: 2018 || Block ID: 22 || Property ID: 102104 || Base property ID: 102104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.957470 || y coordinate: -37.818684 || Location: (-37.81868413, 144.9574703) || 
+
+Vacant --> Census year: 2018 || Block ID: 22 || Property ID: 102104 || Base property ID: 102104 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.957470 || y coordinate: -37.818684 || Location: (-37.81868413, 144.9574703) || 
+
+Vacant --> Census year: 2018 || Block ID: 1110 || Property ID: 620308 || Base property ID: 593737 || CLUE small area: Docklands || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.937851 || y coordinate: -37.813169 || Location: (-37.81316939, 144.9378512) || 
+
+Family Planning Victoria Inc --> Census year: 2018 || Block ID: 35 || Property ID: 103322 || Base property ID: 103322 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 8790 || Industry (ANZSIC4) description: Other Social Assistance Services || x coordinate: 144.964173 || y coordinate: -37.815732 || Location: (-37.8157323, 144.9641735) || 
+
+Vacant --> Census year: 2018 || Block ID: 753 || Property ID: 110606 || Base property ID: 110380 || CLUE small area: Southbank || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.966304 || y coordinate: -37.820718 || Location: (-37.82071819, 144.9663043) || 
+
+CCT Business Services Pty Ltd --> Census year: 2018 || Block ID: 218 || Property ID: 102675 || Base property ID: 102675 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6932 || Industry (ANZSIC4) description: Accounting Services || x coordinate: 144.967865 || y coordinate: -37.799824 || Location: (-37.79982399, 144.9678646) || 
+
+Carlton Clocktower Apartments --> Census year: 2018 || Block ID: 218 || Property ID: 102675 || Base property ID: 102675 || CLUE small area: Carlton || Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.967865 || y coordinate: -37.799824 || Location: (-37.79982399, 144.9678646) || 
+
